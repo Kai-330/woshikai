@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter an age: ")
+
+long = int(input("How high you are:"))
+
+print(name, "is",age,"years old now.", long, "having this long") 
